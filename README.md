@@ -27,7 +27,7 @@
 
 #### ⚡ Backend Development
 - [**Tour Booking API**](#) → Node.js, Express, MongoDB project from Jonas Bootcamp.
-- https://tour-site.up.railway.app/  
+  ➡️https://tour-site.up.railway.app/  
 
 
 #### 🖥️ Scripting & Automation
@@ -37,6 +37,6 @@
 ---
 
 ### ✨ Motto
-> "With all my might, I turn ideas into code and curiosity into impact."  
+> "Whatsoever you hand fineth to do, do it will all your might!"  
 
 ---
