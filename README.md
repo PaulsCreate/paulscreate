@@ -1,5 +1,6 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-yusuf-8b5a97209/)
+
 # 👋 Hi there, I’m Paul Yusuf  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-yusuf-8b5a97209/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Cybersecurity+Professional🔐;Backend+Developer+⚡🖥️;Always+Curious+%F0%9F%94%8D)](https://git.io/typing-svg)
 
