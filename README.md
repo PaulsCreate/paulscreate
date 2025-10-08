@@ -33,7 +33,8 @@
 
 
 #### 🖥️ Scripting & Automation
-- [**PowerShell Scripts**](#) → Automating AD tasks, logging, and security checks.  
+- [**Python Scripts**](#)→(https://github.com/PaulsCreate/Scripting-Automation-)
+- [**PowerShell Scripts**](#) → Automating files organization in a directory.  
 - [**Bash Security Tools**](#) → Simple shell scripts for log monitoring & process analysis.  
 
 ---
