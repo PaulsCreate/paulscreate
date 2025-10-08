@@ -33,9 +33,9 @@
 
 
 #### 🖥️ Scripting & Automation
-- [**Python Scripts**](#)→(https://github.com/PaulsCreate/Scripting-Automation-)
-- [**PowerShell Scripts**](#) → Automating files organization in a directory.  
-- [**Bash Security Tools**](#) → Simple shell scripts for log monitoring & process analysis.  
+- [**Python Scripts**](https://github.com/PaulsCreate/Scripting-Automation-)→Script wit GUI for Downloading Video from any Social Platform 
+- [**PowerShell Scripts**](https://github.com/PaulsCreate/Scripting-Automation-) → Automating files organization in a directory.  
+- [**Bash Security Tools**](https://github.com/PaulsCreate/Scripting-Automation-) → Simple shell scripts for log monitoring & process analysis.  
 
 ---
 
